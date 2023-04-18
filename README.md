@@ -22,10 +22,8 @@ Run `make install` to install the KSH color setting system. This will copy the
 Add the following lines to your .profile or .kshrc file:
 
 ```
-sh
-
-if [ -f ~/bin/kshcolor ]; then
-  . ~/bin/kshcolor
+if [ -f ~/bin/kshcolor.sh ]; then
+  . ~/bin/kshcolor.sh
   # Add any customization you want here
 fi
 ```
