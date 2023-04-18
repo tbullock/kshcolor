@@ -136,7 +136,7 @@ To test your system and verify that all decorations work correctly, run
 `make test`. This will execute the test_colours.sh script, which generates
 a grid of all possible color and attribute combinations in your terminal.
 
-License
+## License
 
 This software is written by Ted Bullock and released under the ISC License.
 Please refer to the included LICENSE file for more information.
