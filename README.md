@@ -9,8 +9,6 @@ may vary.
 ## Features
 - Easy-to-use functions for setting text colors and attributes
 - Automatic detection of terminal color support
-- Customizable prompt string with support for colors and source control information
-- Makefile for easy installation and testing
 
 ![image](https://user-images.githubusercontent.com/1172997/232948702-3a587abf-93f8-4a14-8100-54da19d0a1cd.png)
 
