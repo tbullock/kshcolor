@@ -2,8 +2,6 @@
 
 .PHONY: all clean install test
 
-KSH := $(shell which ksh)
-
 all: clean kshcolor.sh
 
 ansicolours: preprocess_colours.sh
